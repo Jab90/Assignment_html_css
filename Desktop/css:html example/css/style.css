@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: white;
+}
+
+.header_links {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.list {
+  margin-right: 10px;
+}
+
+.links_wrapper {
+  width: 1295px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid red;
+}
+
+.nav_wrapper {
+  background-color: orange;
+  width: 1295px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav {
+  display: flex;
+  align-items: flex-start;
+}
+
+.nav_links {
+  display: flex;
+  list-style: none;
+}
